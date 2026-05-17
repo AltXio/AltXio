@@ -25,7 +25,7 @@ I enjoy understanding how things work from the inside out, and this profile refl
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 > [!NOTE]
-> *(I’ll keep updating this as I make my way through the tech world...)*
+> *I’ll keep updating this as I make my way through the tech world...*
 
 ---
 
