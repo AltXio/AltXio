@@ -1,20 +1,20 @@
-# Hey, soy AltXio 👋
+# Hey, I'm AltXio 👋
 
-**Desarrollador de Aplicaciones Web** con ganas de aprender, construir cosas y colaborar en equipos aportando valor.
+**Web Developer** eager to learn, build things, and contribute value as part of a team.
 
-Me gusta entender cómo funcionan las cosas por dentro, y este perfil es el reflejo de lo que voy aprendiendo por el camino.
+I enjoy understanding how things work from the inside out, and this profile reflects what I've been learning along the way.
 
 ---
 
-## ♟️ Sobre mí
+## ♟️ About me
 
-- 💻 Desarrollador de aplicaciones web
-- 🎯 Objetivo: Aprender sobre tecnologías del mundo web, colaborar en repos aportando valor, crecer como desarrollador profesionalmente
+- 💻 Web application developer
+- 🎯 Goal: Learn about web technologies, contribute to open-source projects, and grow professionally as a developer
 - 📍 Barcelona
 
 ---
 
-## 👾 Tecnologías que he utilizado
+## 👾 Technologies I’ve used
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,28 +24,29 @@ Me gusta entender cómo funcionan las cosas por dentro, y este perfil es el refl
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-> *(Iré actualizando esto conforme avance por el mundo tech...)*
+[!NOTE]
+> *(I’ll keep updating this as I make my way through the tech world...)*
 
 ---
 
-## ♦️ Proyectos destacados
+## ♦️ Featured Projects
 
 ### 🏴‍☠️ Hunter Treasure
-Videojuego de acción y aventura en 2D desarrollado en Java con Swing.
-El jugador avanza por pantallas eliminando enemigos, recogiendo llaves y objetos coleccionables.
-Incluye conexión a base de datos MySQL mediante JDBC.
+A 2D action-adventure video game developed in Java using Swing.
+The player progresses through levels by defeating enemies and collecting keys and collectibles.
+It includes a connection to a MySQL database via JDBC.
 
-🔗 [Ver repositorio](https://github.com/AltXio/Hunter-Treasure)
+🔗 [View repository](https://github.com/AltXio/Hunter-Treasure)
 
 ### 🧩 Football Manager
-Logica de programa para gestionar equipos, disputar ligas. Y toda la emoción de un Manager de equipo.
-Permite crear equipos nuevos con una quimica completamente unica o elegirlos de la sección existente.
+Program logic for managing teams and competing in leagues. And all the excitement of being a team manager.
+Allows you to create new teams with completely unique chemistry or choose them from the existing roster.
 
-🔗 [Ver repositorio]([https://github.com/AltXio/Hunter-Treasure](https://github.com/AltXio/Football_Manager)
+🔗 [View repository]([https://github.com/AltXio/Hunter-Treasure](https://github.com/AltXio/Football_Manager)
 
 ---
 
-## 📬 Contacto
+## 📬 Contact
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andres-mauricio-gomez-alvarado/)
 ---
