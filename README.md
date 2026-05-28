@@ -42,7 +42,7 @@ It includes a connection to a MySQL database via JDBC.
 Program logic for managing teams and competing in leagues. And all the excitement of being a team manager.
 Allows you to create new teams with completely unique chemistry or choose them from the existing roster.
 
-🔗 [View repository](https://github.com/AltXio/Football_Manager)
+🔗 [View repository](https://github.com/AltXio/Football-Manager)
 
 ---
 
